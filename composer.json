@@ -1,5 +1,5 @@
 {
-    "name": "PlexManager/radarr",
+    "name": "plexmanager/radarr",
     "description": "PHP Radarr API Wrapper",
     "license": "MIT",
     "authors": [

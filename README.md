@@ -5,7 +5,7 @@ Here is the Radarr API Documentation that this package implements: https://githu
 
 ## Installation
 ```ruby
-composer require PlexManager/radarr
+composer require plexmanager/radarr
 ```
 
 ## Example Usage
