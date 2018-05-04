@@ -1,0 +1,19 @@
+{
+    "name": "PlexManager/radarr",
+    "description": "PHP Radarr API Wrapper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Plex Manager",
+            "email": "plexmanagerapp@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "PlexManager\\Radarr\\": "src/"
+        }
+    }
+}
